@@ -1,0 +1,3 @@
+([('赛博监工',
+   '/Users/kmatsudo/Documents/Python/CyberSupervisor/dist/赛博监工',
+   'EXECUTABLE')],)
