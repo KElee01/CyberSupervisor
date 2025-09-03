@@ -15,7 +15,7 @@
 
 ### 下载预编译版本
 
-1. 从 [Releases](https://github.com/yourusername/CyberSupervisor/releases) 页面下载最新版本的 `赛博监工.app`
+1. 从 [Releases](https://github.com/KElee01/CyberSupervisor/releases) 页面下载最新版本的 `赛博监工.app`
 2. 将应用拖到 Applications 文件夹
 3. 首次运行时可能需要在系统偏好设置中允许运行
 4. 如果需要开机自启的话，需要自行在“系统设置-通用-登录项与扩展-登录时打开”中添加“赛博监工.app”
